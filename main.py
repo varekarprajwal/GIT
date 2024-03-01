@@ -6,3 +6,5 @@ print("the additon of two number is ",a+b)
 print("the additon of two number is ",a-b)
 
 print("the additon of two number is ",a*b)
+
+print("the additon of two number is ",a/b)
